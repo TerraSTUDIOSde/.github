@@ -1,3 +1,3 @@
 # Hi there 👋
 
-We are a little gamestudio called "TerraSTUDIOS"
+We are a little gamestudio and software developing team called "TerraSTUDIOS"
